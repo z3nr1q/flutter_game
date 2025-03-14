@@ -43,3 +43,6 @@ app.*.map.json
 /android/app/debug
 /android/app/profile
 /android/app/release
+
+# JDK installer
+microsoft-jdk-17-windows-x64.msi
